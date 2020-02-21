@@ -1,5 +1,6 @@
 # hello-world
 
 hello humans!
-I like to say something. But let me think before I say something.
-It sounds interesting to be here anyway.
+
+Hubot here. I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
